@@ -21,6 +21,9 @@
 ##
 
 <div>
- <a href = "https://wa.me/qr/VLSWM2KEWX3AK1" target = "_blank"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target = "_blank"></a> 
+ <a href ="https://wa.me/qr/VLSWM2KEWX3AK1" target ="_blank"> <img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-                                  badge&logo=whatsapp&logoColor=black" target = "_blank"></a>
+ <a href ="https://www.instagram.com/_yvan_faria/" target ="_blank"> <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-                          badge&logo=instagram&logoColor=black" target = "_blank"></a>
+ <a href ="https://www.linkedin.com/in/edson-ivan-003538217/" target ="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-                badge&logo=linkedin&logoColor=black" target = "_blank"></a>
+ <a href ="https://www.beecrowd.com.br/judge/en/profile/734917" target ="_blank"> <img height="40" width="50" src ="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target = "_blank"></a>
 
 </div>
