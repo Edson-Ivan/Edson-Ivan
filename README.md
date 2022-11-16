@@ -15,7 +15,7 @@
 <img align="center" alt="Edson-HTML5" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Edson-CSS3" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Edson-javascript" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="right" alt="Edson-ali" heigth="200" width="200"                                                                                                 src ="https://cdn.discordapp.com/attachments/1042273312715313176/1042287763006947338/Design_sem_nome_2.gif"/>
+<img align="right" alt="Edson-ali" heigth="100" width="100"                                                                                                 src ="https://cdn.discordapp.com/attachments/1042273312715313176/1042287763006947338/Design_sem_nome_2.gif"/>
 
 </div>
 
