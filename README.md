@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como estágiario
 - 🌱 Estudando Engenharia da Computação
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Edson-Ivan">
