@@ -1,4 +1,4 @@
-### Olá! Eu sou o Edson Ivan 
+### Olá! Eu sou o Edson Ivan Faria
 
 - 🔭 Hoje trabalho como estágiario
 - 🌱 Estudando Engenharia da Computação
